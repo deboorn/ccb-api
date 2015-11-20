@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ccb_api>
+    <online_gifts>
+        <online_gift merchant-transaction-id="">
+            <merchant_name></merchant_name>
+            <merchant_individual_id></merchant_individual_id>
+            <merchant_authorization_code></merchant_authorization_code>
+            <merchant_notes></merchant_notes>
+            <merchant_status></merchant_status>
+            <merchant_process_date></merchant_process_date>
+            <merchant_process_id></merchant_process_id>
+            <merchant_schedule_id></merchant_schedule_id>
+            <payment_method></payment_method>
+            <payment_method_type></payment_method_type>
+            <campus_id></campus_id>
+            <individual id="0">
+                <first_name></first_name>
+                <last_name></last_name>
+                <email></email>
+                <address>
+                    <street_address></street_address>
+                    <city></city>
+                    <state></state>
+                    <zip></zip>
+                    <country code="US">United States</country>
+                </address>
+                <phones>
+                    <phone type="contact"></phone>
+                </phones>
+            </individual>
+            <gifts>
+                <gift>
+                    <coa_id></coa_id>
+                    <amount></amount>
+                </gift>
+            </gifts>
+        </online_gift>
+</ccb_api>
